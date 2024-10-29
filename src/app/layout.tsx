@@ -1,11 +1,11 @@
 
 // import type { Metadata } from "next";
 // import localFont from "next/font/local";
-import Link from "next/link";
+
 import type { Metadata } from "next";
 import "./globals.css";
 import Navbar from "../app/component/navbar/page"
-import Footer from "./component/footer/page";
+
 
 export const metadata: Metadata = {
   title: "Pak Wheels",

@@ -1,7 +1,7 @@
 
 import Link from "next/link";
 import Image from "next/image";
-import { Html, Head, Main, NextScript } from 'next/document';
+
 
 export default function Navbar() {
     return (
